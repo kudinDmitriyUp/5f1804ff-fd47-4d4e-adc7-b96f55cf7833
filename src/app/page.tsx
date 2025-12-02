@@ -117,7 +117,7 @@ export default function LandingPage() {
               icon: Building2
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764667222830-w33b1llj.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764686324268-mdu3hopr.jpg"
           imageAlt="Real estate agents meeting with clients"
           imagePosition="right"
           textboxLayout="default"

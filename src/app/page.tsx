@@ -134,7 +134,7 @@ export default function LandingPage() {
               name: "Jake Young",
               role: "Founder & Principal Agent",
               description: "25+ years of real estate excellence with proven track record in luxury property sales and market leadership",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764667223617-kxgiavee.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764686020469-oyogjn9a.jpg",
               imageAlt: "Jake Young, Founder",
               socialLinks: [
                 {
@@ -152,7 +152,7 @@ export default function LandingPage() {
               name: "Sarah Mitchell",
               role: "Senior Real Estate Agent",
               description: "Specializing in residential properties with exceptional client service and negotiation expertise",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764667224303-h3ldsykn.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764686020354-bq96mu4r.jpg",
               imageAlt: "Sarah Mitchell, Senior Agent",
               socialLinks: [
                 {
@@ -170,7 +170,7 @@ export default function LandingPage() {
               name: "Michael Chen",
               role: "Commercial Properties Specialist",
               description: "Expert in commercial real estate with deep knowledge of investment properties and market trends",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764667224828-zbjd6kd2.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764686020621-l5uuioi1.jpg",
               imageAlt: "Michael Chen, Commercial Specialist",
               socialLinks: [
                 {
@@ -184,7 +184,7 @@ export default function LandingPage() {
               name: "Emma Rodriguez",
               role: "Client Relations Manager",
               description: "Dedicated to ensuring seamless transactions and exceptional experiences for every client",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764667225374-12too6bp.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764686020775-xw908pzb.jpg",
               imageAlt: "Emma Rodriguez, Client Relations",
               socialLinks: [
                 {
